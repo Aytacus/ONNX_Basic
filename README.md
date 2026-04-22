@@ -45,7 +45,7 @@ This script takes your exported model, runs it highly optimized on the `ONNX Run
 ## Article and Context
 
 To explore the story behind this project and dive deeper into the under-the-hood architecture of ONNX (Nodes, Edges, Opset), you can check out the related blog post:
-[[Link to the Article]](https://medium.com/@akgunyucel/yapay-zekan%C4%B1n-evrensel-dili-onnx-ile-modelleri-%C3%B6zg%C3%BCrle%C5%9Ftirmek-c7b2299422cd)
+[[Blog]](https://medium.com/@akgunyucel/yapay-zekan%C4%B1n-evrensel-dili-onnx-ile-modelleri-%C3%B6zg%C3%BCrle%C5%9Ftirmek-c7b2299422cd)
 
 ---
 **Happy Coding!**
